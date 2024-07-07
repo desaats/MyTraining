@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace MyTraining
 {
-    internal class Cadrastar
+    public class Cadrastar
     {
+        //public List<Usuario> usuarios = new List<Usuario>(10);
     }
 }
